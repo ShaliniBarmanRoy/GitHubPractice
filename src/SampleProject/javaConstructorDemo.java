@@ -17,6 +17,7 @@ public class javaConstructorDemo {
 		
 		javaConstructorDemo jcd = new javaConstructorDemo("Shalini", " Salesforce Tester");
 		System.out.println("Details: " +jcd.Name +  jcd.Designation);
+		System.out.println("New line");
 		
 	}
 
