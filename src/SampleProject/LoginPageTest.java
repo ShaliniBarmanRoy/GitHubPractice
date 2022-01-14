@@ -6,6 +6,7 @@ public class LoginPageTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Add New files to Git");
+		System.out.println("Add");
 
 	}
 
