@@ -7,6 +7,7 @@ public class LoginPageTest {
 		
 		System.out.println("Add New files to Git");
 		System.out.println("Add");
+		System.out.println("Test");
 
 	}
 
